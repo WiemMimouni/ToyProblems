@@ -2,9 +2,8 @@
 
 ![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png)
 
-
-
 Welcome to my JavaScript Toy Problems Repository! This repository contains a diverse collection of toy problems and coding challenges that I've solved using JavaScript. Whether you're a beginner looking to learn JavaScript or an experienced developer looking for new challenges, you'll find a variety of problems to explore and solve.
+
 
 
 ## About
