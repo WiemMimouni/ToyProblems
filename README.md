@@ -16,6 +16,5 @@ This repository serves as a testament to my coding journey with JavaScript. Insi
 - `problem.md`: A detailed problem statement.
 - `solution.js`: My JavaScript solution(s) to the problem.
 - `README.md`: Explanations, thought process, and any optimizations.
-- `tests/`: A folder containing test cases and testing code.
 
 Feel free to explore the challenges, review my solutions, and provide feedback if you have any suggestions for improvement. If you're a beginner, this repository can be a valuable resource to learn JavaScript through hands-on practice.
