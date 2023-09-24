@@ -24,7 +24,6 @@ const alphaCount = (alphabet, text) => {
     results.sort();
   
     var resultString = results.join(',');
-    var resultString = results.join(',');
   
     return resultString;
   };
